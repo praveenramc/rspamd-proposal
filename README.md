@@ -1,5 +1,5 @@
 # Corpus testing and Automatic Symbol Score Generation
----
+
 **Name:** Pragadeesh C  
 **Email:** cpragadeesh@gmail.com  
 **Github:** [cpragadeesh](http://www.github.com/cpragadeesh)  
@@ -45,26 +45,24 @@ A Perceptron will be used as our neural network. A Perceptron will take in input
 
 In our case, each input node will represent a Symbol. For a particular message, The input vector will consist of a series of 0s and 1s (0 if the symbol was not associated with the message, 1 if the symbol was associated with the message). The weight of each input node will represent the score of each Symbol. A bias value is added to the linear combination of the input and the weights. So, in effect the Perceptron's input will be:
 
-    h(message) = sum(Xi * Wi) + Bias
-
-    Xi = ith value of Input vector (0 or 1)
-    Wi = Score of ith Symbol
+> h(message) = sum(Xi * Wi) + Bias  
+  Xi = ith value of Input vector (0 or 1)  
+  Wi = Score of ith Symbol  
 
 Clearly, if the bias is set to 0, this formula is same as the one that is used to calculate the message score. The message score will be the sum of the scores of each symbol that is associated with a message.
 
 The input of Perceptron would then be passed onto an activation function. Our choice of activation function would be the Sigmoid function. So the final result would be:
 
-    g(h(m)) = Sigmoid(h(m))
+> g(h(m)) = Sigmoid(h(m))
 
 For learning phase, the error will be computed using Mean-Square error. Stochastic Gradient Descent algorithm would then be used to update the weights so as to minimize the error. Stochastic Gradient Descent is used to converge fast and is computationally less expensive compared to regular Gradient Descent. The weights will be updated as follows:
 
-    error(m) = g(m) * (1-g(m)) * (g_expected - g(m))
-
-    Wi = Wi + error(m) * Xi * learning_rate
+> error(m) = g(m) * (1-g(m)) * (g_expected - g(m))  
+  Wi = Wi + error(m) * Xi * learning_rate
 
 After training the neural network on the training set, the final scores will be calculated as follows:
 
-    score(w) = -scale * w / bias
+> score(w) = -scale * w / bias
 
 
 ##### Automation, Testing and Documentation
