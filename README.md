@@ -25,8 +25,9 @@ At the end of this project, a module capable of automatically learning from the 
 ## Implementation
 
 ### Overview
-The project can be divided into three major tasks: Corpus Testing, Neural Networks, Automation, Testing & Documentation.
-
+The project can be divided into three major tasks: Corpus Testing, Neural Networks, Automation, Testing & Documentation.  
+&nbsp;  
+&nbsp;
 * #### Corpus Testing
     Shell scripts will be developed for feeding a corpus of spam and ham messages into rspamd, the results generated will be used to prepare a dataset(used to train our Neural Networks) and also generate statistics for evaluation purpose.
 
