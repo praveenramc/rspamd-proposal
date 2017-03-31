@@ -133,15 +133,15 @@ I am thrilled about Open Source in general. I am especially very excited about t
 
 #### Experience
 
-I have completed an online course in Machine Learning by Andrew Ng in Coursera. I have worked through the course materials which covered various programming tasks that involved Neural Networks, Spam classification, etc. Apart from the coursework, I have built a Recommendation system using Netflix dataset, used unsupervised learning to detect Twitter troll farms. The source code for these could be found [here](https://github.com/cpragadeesh/Recommendation-System) and [here](https://github.com/cpragadeesh/troll-farm-detection).
+I have completed an online course in Machine Learning by Andrew Ng in Coursera. I have worked through the course materials which covered various programming tasks that involved Neural Networks, Spam classification, etc. Apart from the coursework, I have built a Recommendation system using Netflix dataset. [Source](https://github.com/cpragadeesh/Recommendation-System). Used unsupervised learning to detect Twitter troll farms. [Source](https://github.com/cpragadeesh/troll-farm-detection).
 
-Apart from these, I have built several projects. I built a Web platform for debugging contests using Django([source](https://github.com/cpragadeesh/coldcoffee)), built a command line interface for automating testing for online algorithmic contests conducted in [codeforces](http://www.codeforces.com) using Python([source](https://github.com/cpragadeesh/codeforces-cli)).
+Apart from these, I have built several projects. I built a Web platform for debugging contests using Django. [Source](https://github.com/cpragadeesh/coldcoffee), Built a command line interface for automating testing for online algorithmic contests conducted in codeforces.com using Python. [Source](https://github.com/cpragadeesh/codeforces-cli).
 
-I learnt C in my highschool. For introductory course project, I developed a project that imitated an interpreter. It was capable of performing basic commands ([source](https://github.com/cpragadeesh/nice)). I believe that I have sufficient knowledge of C to complete this project.
+I learnt C in my highschool. For introductory course project, I developed a project that imitated an interpreter. It was capable of performing basic commands. [Source](https://github.com/cpragadeesh/nice). 
 
 I learnt Lua for modifying a MOD for a game called [MTA SA](https://www.mtasa.com) in my highschool. Although I have been a little out of touch, I could pick up Lua very easily since I have used other scripting languages like JS, Python, etc.
 
-I am confident that I could pick up whatever skills this project requires and complete it.
+I believe that I have sufficient knowledge of C to complete this project. I am confident that I could pick up whatever skills this project requires and complete it.
 
 #### Contributions
 
