@@ -146,8 +146,11 @@ I believe that I have sufficient knowledge of C to complete this project. I am c
 #### Contributions
 
 *Plugin improvement*
-* DMARC: Report if a message was sample_out  
+* DMARC: Report if a message was sample_out
+
 _([Link](https://github.com/vstakhov/rspamd/pull/1570))_
 
 *Test improvement*  
-* lua_html content extraction (Working on it, Will send a PR soon)
+* lua_html content extraction
+
+(Working on it, Will send a PR soon)
