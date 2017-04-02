@@ -122,11 +122,11 @@ The user will be provided various options such as an upper bound for the score, 
 * Buffer week
 * Prepare for final evaluation.
 
-#### Other commitments
+#### Other Commitments
 
 My University's Finals are scheduled from May 13 - May 27. During these 2 weeks, I might not be able to spend 40 hours/week. However, during other weeks, I can work up to 50 hours/week. Apart from this, I might take a break for 3-4 days, in which case, I will inform the mentor a week prior.
 
-## About me
+## About Me
 
 I am Pragadeesh C, from India. I am pursuing my Undergraduate in Computer Science from Amrita University. I am very passionate about AI/Machine learning. I derive my inspiration from Andrew Ng. Humans spend a lot of time doing mundane tasks like driving, being stuck in traffic, and performing other routine activities(reading spam?). I believe that we could spend a lot of time on other important tasks if we could use AI to automate these mundane activities. This is what drives me.
 
@@ -146,10 +146,10 @@ I believe that I have sufficient knowledge of C to complete this project. I am c
 
 #### Contributions
 
-*Plugin improvement*
+*Plugin Improvement*
 * DMARC: Report if a message was sampled_out  
     - _([Link](https://github.com/vstakhov/rspamd/pull/1570))_
 
-*Test improvement*  
+*Test Improvement*  
 * lua_html content extraction  
     - _(Working on it, Will send a PR soon)_
