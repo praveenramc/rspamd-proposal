@@ -147,10 +147,8 @@ I believe that I have sufficient knowledge of C to complete this project. I am c
 
 *Plugin improvement*
 * DMARC: Report if a message was sampled_out  
-
-    _([Link](https://github.com/vstakhov/rspamd/pull/1570))_
+    *_([Link](https://github.com/vstakhov/rspamd/pull/1570))_
 
 *Test improvement*  
 * lua_html content extraction  
-
-    _(Working on it, Will send a PR soon)_
+    *_(Working on it, Will send a PR soon)_
