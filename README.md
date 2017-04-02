@@ -7,7 +7,7 @@
 **Course:** B.Tech (Honors) in Computer Science  
 **Course Year:** 3rd Year  
 **Country:** India  
-**Timezone:** GMT +5.30 (IST)
+**Timezone:** GMT +5.30 (IST)  
 
 ---
 
@@ -129,7 +129,7 @@ My University's Finals are scheduled from May 13 - May 27. During these 2 weeks,
 
 I am Pragadeesh C, from India. I am pursuing my Undergraduate in Computer Science from Amrita University. I am very passionate about AI/Machine learning. I derive my inspiration from Andrew Ng. Humans spend a lot of time doing mundane tasks like driving, being stuck in traffic, and performing other routine activities(reading spam?). I believe that we could spend a lot of time on other important tasks if we could use AI to automate these mundane activities. This is what drives me.
 
-I am thrilled about Open Source in general. I am especially very excited about the impact that I could create by contributing to Rspamd. Furthermore, I have been waiting to put my skills to use in real world. I believe that this would be a very good opportunity for me.
+I am thrilled about contributing to Open Source in general. I am especially very excited about the impact that I could create by contributing to Rspamd. Furthermore, Being the pragmatist I am, I have been waiting to put my skills to use in real world. I believe that this would be a very good opportunity for me.
 
 #### Experience
 
@@ -146,5 +146,7 @@ I believe that I have sufficient knowledge of C to complete this project. I am c
 #### Contributions
 
 *Plugin improvement*
-* DMARC: Report if a message was sample_out
-(Working on a patch. Will send a PR shortly)
+* DMARC: Report if a message was sample_out ([Link](https://github.com/vstakhov/rspamd/pull/1570))
+
+*Test improvement*
+* lua_html content extraction (Working on it, Will send a PR soon)
