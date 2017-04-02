@@ -1,4 +1,4 @@
-# Corpus testing and Automatic Symbol Score Generation
+## Corpus testing and Automatic Symbol Score Generation
 
 **Name:** Pragadeesh C  
 **Email:** cpragadeesh@gmail.com  
