@@ -1,7 +1,5 @@
 # Corpus testing and Automatic Symbol Score Generation
 
----
-
 **Name:** Pragadeesh C  
 **Email:** cpragadeesh@gmail.com  
 **Github:** [cpragadeesh](http://www.github.com/cpragadeesh)  
